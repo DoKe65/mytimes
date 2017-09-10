@@ -1,3 +1,4 @@
+/* Header */
 header {
 	display: flex;
   font-family: Verdana;
@@ -33,3 +34,25 @@ nav span a {
   padding: 20px 10px;
   
 }
+
+/* Main Content */
+
+container {
+  border: 1px solid black;
+}
+
+.column,
+.leadstory,
+.legend,
+.text,
+.articles,
+.article,
+.newsbite {
+  border: 1px solid black;
+} 
+
+/* Main Content - Main Column */
+
+
+
+
