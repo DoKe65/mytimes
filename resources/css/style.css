@@ -1,6 +1,6 @@
 /* Header */
 header {
-	display: flex;
+  display: flex;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
@@ -121,6 +121,16 @@ container {
   
 .image-content.camera {
   background-image: url("../imgs/img-story-3.png");
+}
+
+.articles {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 17px;
+}
+
+.article {
+  width: 300px;
 }
 
 /* Main Content - Medium column */
